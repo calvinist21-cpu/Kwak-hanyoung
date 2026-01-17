@@ -1,0 +1,5 @@
+{
+  "name": "Pipeline Sermon Builder",
+  "description": "An agentic workflow prototype for building sermons through a structured pipeline of AI agents with human-in-the-loop feedback.",
+  "requestFramePermissions": []
+}
